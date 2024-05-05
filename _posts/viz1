@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Visualizations
+layout: post
+title: "My Visualization"
 ---
 
-# Visualizations
-
-Here are some cool visualizations:
+Check out this cool visualization:
 
 <iframe src="visualization_notebook.html" width="100%" height="600px"></iframe>
